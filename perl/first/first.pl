@@ -154,5 +154,5 @@ my $i = 1;
   $i++;
 }
 
-//comment
+# real comment
 print("git test");
